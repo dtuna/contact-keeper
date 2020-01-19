@@ -1,5 +1,4 @@
-/node_modules
-/client/node_modules
+node_modules/
 
 /client/build
 
@@ -15,5 +14,6 @@ yarn-error.log*
 
 /build
 
-/config/default.json
+# /config/default.json
+# /config/production.json
 

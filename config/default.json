@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://doga:dogapwd@contactkeeper-ikoay.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "My secret"
+}
